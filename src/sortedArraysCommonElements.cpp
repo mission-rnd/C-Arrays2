@@ -17,7 +17,7 @@ ERROR CASES: Return NULL for invalid inputs.
 NOTES:
 */
 
-#include <iostream>
+#include <stdio.h>
 
 struct transaction {
 	int amount;
